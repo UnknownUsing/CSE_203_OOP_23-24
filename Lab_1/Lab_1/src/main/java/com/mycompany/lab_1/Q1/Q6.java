@@ -39,7 +39,7 @@ public class Q6 {
     public void concatenate(){
         Scanner reader = new Scanner(System.in);
         String input2 = reader.nextLine();
-        System.out.println(input + input2);
+        System.out.println(input + " " + input2);
     }
     
     public String palindrome(){

@@ -1,0 +1,9 @@
+
+ƒ
+java:S1319"gThe type of "dictionary" should be an interface such as "Map" rather than the implementation "HashMap".(ŒŸòS8š¶Êø1
+;
+java:S1700"Rename field "dictionary"(ğÈ¢»ıÿÿÿÿ8œ¶Êø1
+L	java:S106&"+Replace this use of System.out by a logger.(ÑõÓ×øÿÿÿÿ8¬¶Êø1
+V
+java:S2864,"4Iterate over the "entrySet" instead of the "keySet".(ãªÛÀÿÿÿÿÿ8®¶Êø1
+L	java:S106."+Replace this use of System.out by a logger.(†§êšúÿÿÿÿ8®¶Êø1

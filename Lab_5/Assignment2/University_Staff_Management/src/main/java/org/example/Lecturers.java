@@ -8,6 +8,11 @@ public class Lecturers extends UniversityStaff{
     private int numOfSubject;
     private double lectureSalary;
     private ArrayList<String> subjectList = new ArrayList<>();
+    private final int type = 1;
+
+    public Lecturers() {
+    }
+
     public Lecturers(String fullname, String dateOfBirth, String idNumber, String academicRank, String academicDegree, int yearsOfExperience, ArrayList<String> subjectList) {
         super(fullname, dateOfBirth, idNumber);
         this.academicRank = academicRank;
@@ -41,8 +46,19 @@ public class Lecturers extends UniversityStaff{
     }
 
     @Override
+    public void editInfo() {
+        super.staffEdit();
+        inputLecture();
+    }
+
+    @Override
     public double getSalary(){
         lectureSalary = (numOfSubject * yearsOfExperience * 0.12) * 20000;
         return lectureSalary;
+    }
+
+    @Override
+    public int getType() {
+        return type;
     }
 }

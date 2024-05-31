@@ -1,13 +1,22 @@
 package org.example;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
-public class Specialists extends UniversityStaff{
+public class Specialists extends UniversityStaff implements Serializable {
     private int yearsOfWorkExp;
     private ArrayList<String> educationalProjects = new ArrayList<>();
     private double specialistSalary;
+    private final int type = 4;
     public Specialists() {
     }
+
+    @Override
+    public void editInfo() {
+        super.staffEdit();
+        inputSpecialists();
+    }
+
     public Specialists(String fullname, String dateOfBirth, String idNumber, int yearsOfWorkExp, ArrayList<String> educationalProjects) {
         super(fullname, dateOfBirth, idNumber);
         this.yearsOfWorkExp = yearsOfWorkExp;
@@ -36,6 +45,10 @@ public class Specialists extends UniversityStaff{
         }
         specialistSalary = (yearsOfWorkExp*4 + countT)*18000;
         return specialistSalary;
+    }
+    @Override
+    public int getType() {
+        return type;
     }
 
 

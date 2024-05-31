@@ -1,5 +1,7 @@
 
+d
+java:S1170	"!Make this final field static too.(©ïï‹8­É˜ùü1J$2b674fe4-fd8d-48d6-8736-29f34b41731b
 ¡
-java:S1450"^Remove the "assistantSalary" field and declare it as a local variable in the relevant methods.(Óß–Ü8äÉ¬îú1J$af962728-a868-4730-b6bd-efb0deddff5e
+java:S1450"^Remove the "assistantSalary" field and declare it as a local variable in the relevant methods.(Óß–Ü8äÉ¬îú1J$b1f81254-03d2-4c63-b6cf-d383472fba37
 v
-java:S1068"3Remove this unused "assistantSalary" private field.(Óß–Ü8çÉ¬îú1J$daca18b6-03ba-4a4c-bdb3-a0ed3d63c79f
+java:S1068"3Remove this unused "assistantSalary" private field.(Óß–Ü8çÉ¬îú1J$d6eff8a2-61df-4e83-9d5b-f1e98584610e

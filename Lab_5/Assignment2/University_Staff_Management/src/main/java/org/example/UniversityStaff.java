@@ -1,8 +1,9 @@
 package org.example;
 
+import java.io.Serializable;
 import java.util.Scanner;
 
-public abstract class UniversityStaff {
+public abstract class UniversityStaff implements Serializable {
     public static Scanner sc = new Scanner(System.in);
     private String fullname;
     private String dateOfBirth;
@@ -17,6 +18,10 @@ public abstract class UniversityStaff {
         this.idNumber = idNumber;
     }
 
+    public String getIdNumber() {
+        return idNumber;
+    }
+
     public void staffInput(){
         System.out.println("---------------------------------------------------");
         System.out.print("Full name:");
@@ -27,6 +32,14 @@ public abstract class UniversityStaff {
         idNumber = sc.next();
     }
 
+    public void staffEdit(){
+        System.out.println("--------------------------------------------------");
+        System.out.print("Full name:");
+        fullname = sc.next();
+        System.out.print("Date of birth:");
+        dateOfBirth = sc.next();
+    }
+
     @Override
     public String toString() {
         return "-------------------------------"+ "\n" +
@@ -34,5 +47,8 @@ public abstract class UniversityStaff {
                 "Date of birth" + dateOfBirth + '\n' +
                 "Id Number" + idNumber + '\n';
     }
+
+    public abstract void editInfo();
     public abstract double getSalary();
+    public abstract int getType();
 }

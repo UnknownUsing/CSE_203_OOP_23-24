@@ -1,16 +1,19 @@
 package org.example;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
-public class Resaerchers extends UniversityStaff{
+public class Researcher extends UniversityStaff implements Serializable {
     private int yearsOfResearchExp;
     private ArrayList<String> listOfResearch = new ArrayList<>();
 
     private double researcherSalary;
+    private final int type = 2;
 
-    public Resaerchers() {
+
+    public Researcher() {
     }
-    public Resaerchers(String fullname, String dateOfBirth, String idNumber, int yearsOfResearchExp, ArrayList<String> listOfResearch) {
+    public Researcher(String fullname, String dateOfBirth, String idNumber, int yearsOfResearchExp, ArrayList<String> listOfResearch) {
         super(fullname, dateOfBirth, idNumber);
         this.yearsOfResearchExp = yearsOfResearchExp;
         this.listOfResearch = listOfResearch;
@@ -37,6 +40,12 @@ public class Resaerchers extends UniversityStaff{
     }
 
     @Override
+    public void editInfo() {
+        super.staffEdit();
+        inputResearcher();
+    }
+
+    @Override
     public double getSalary() {
         int dCount = 0;
         for (String research: listOfResearch) {
@@ -47,5 +56,10 @@ public class Resaerchers extends UniversityStaff{
         researcherSalary = (yearsOfResearchExp * 2 + dCount) * 20000;
         return researcherSalary;
 
+    }
+
+    @Override
+    public int getType() {
+        return type;
     }
 }

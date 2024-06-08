@@ -1,0 +1,5 @@
+
+¸
+java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§ž™üùÿÿÿÿ8€µì«ÿ1J$96374ca6-9011-4cd9-a7e0-8645704d8b81
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŽÛë¿8…µì«ÿ1J$59ba2a7e-3ca1-4f44-8e67-0081c49afc26

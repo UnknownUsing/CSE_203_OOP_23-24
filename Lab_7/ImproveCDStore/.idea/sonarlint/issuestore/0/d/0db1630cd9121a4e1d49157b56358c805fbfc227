@@ -1,0 +1,29 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(²ƒï›8ßĞ«ÿ1J$ff5b08a9-4bbd-4525-a48b-de41201f18bb
+j
+java:S1604"(Make this anonymous inner class a lambda(²ûÌ
+8áĞ«ÿ1J$6c886995-5771-4c7d-82bb-2b58688dafce
+n
+java:S1948"+Make "cdManager" transient or serializable.(“µÅ8š”Ñ«ÿ1J$6423e234-75cc-45b0-9fa0-c2c8e74204d8
+‡
+java:S1854"?Remove this useless assignment to local variable "newCDDIalog".(ÿ› °úÿÿÿÿ8éĞ«ÿ1J$26395d2d-d34d-4085-a23f-036eaad4c510
+x
+java:S1481"0Remove this unused "newCDDIalog" local variable.(ÿ› °úÿÿÿÿ8êĞ«ÿ1J$dbdbd6a3-ee3e-42f9-b597-bb5b432b5d0c
+x
+java:S1068"0Remove this unused "backupButton" private field.(Ì’÷şÿÿÿÿ8ëĞ«ÿ1J$0a39d206-9c54-4e96-8739-90c1cf9ff99b
+t
+java:S1068"1Remove this unused "restoreButton" private field.(ö–8ëĞ«ÿ1J$f380e6f4-bf0c-4b81-a9f5-f25f3c3b51c3
+y
+java:S1068	"1Remove this unused "refreshButton" private field.(…¤¯°ÿÿÿÿÿ8ëĞ«ÿ1J$5c56a36d-e992-440f-a76c-c91b2e67fdf3
+x
+java:S1068
+"0Remove this unused "deleteButton" private field.(ÿêí®úÿÿÿÿ8ëĞ«ÿ1J$1c637564-5446-4df9-9202-ef4753b773f2
+m
+java:S1068"*Remove this unused "cdInfo" private field.(Ã­Úˆ8ëĞ«ÿ1J$d5ebceed-2658-46d5-8c9c-b4d02ec6e5b3
+m
+java:S1068"*Remove this unused "cdType" private field.(²ƒï›8ëĞ«ÿ1J$ef43527c-5656-403c-a864-a66df017219d
+u
+java:S1068"-Remove this unused "searchBox" private field.(®×Éôúÿÿÿÿ8ëĞ«ÿ1J$4f76940d-980f-4103-ae44-f3e60a802c43
+x
+java:S1068"0Remove this unused "searchButton" private field.(„–‘Ÿÿÿÿÿÿ8ëĞ«ÿ1J$586a2550-dc90-4dba-8309-83b415e2ca62

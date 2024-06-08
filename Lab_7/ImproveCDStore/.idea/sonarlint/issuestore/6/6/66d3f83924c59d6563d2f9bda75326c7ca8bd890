@@ -1,0 +1,28 @@
+
+	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(ΌÿΎΉÿÿÿÿÿ8δω–°ÿ1J$0c8360da-20df-4f1d-bdc8-c63c1a6015c2
+	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(ΌÿΎΉÿÿÿÿÿ8δω–°ÿ1J$18b2fcd2-8584-4f05-b641-c3f2460e277e
+	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ΌÿΎΉÿÿÿÿÿ8δω–°ÿ1J$af035325-a9cf-48e6-a77b-267d32aeaa4e
+r
+java:S3740"/Provide the parametrized type for this generic.(²ƒο›8δω–°ÿ1J$7a9104b0-64a2-4873-b84d-bf74a652c0f0
+}
+java:S1141S"5Extract this nested try block into a separate method.(΅»Άόωÿÿÿÿ8δω–°ÿ1J$4c218233-1709-45da-a53d-01d7894fc362
+s
+java:S1948"+Make "rowSorter" transient or serializable.(¶χΚψÿÿÿÿ8δω–°ÿ1J$b130c654-77b7-457a-93a7-2f01af292e89
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Σζÿϋÿÿÿÿ8τω–°ÿ1J$64a94778-53f7-45b0-bec6-5bc7a329c566
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Υϋ»φώÿÿÿÿ8τω–°ÿ1J$359b7d45-82d7-48d3-8c32-a94e9ef6f55e
+s
+java:S1481""0Remove this unused "newCDDIalog" local variable.(ΐ™Ϋ„8τω–°ÿ1J$5fc2134f-2596-4c1e-a243-15c5a7f00edd
+‡
+java:S2147_"DCombine this catch with the one at line 93, which has the same body.(Φ¨•8τω–°ÿ1J$bc5d915c-a99a-4700-a490-a17ab66189e9
+m
+java:S1068"*Remove this unused "cdType" private field.(²ƒο›8τω–°ÿ1J$accfe035-095c-4a23-88ee-af8c39defbe9
+u
+java:S1068"-Remove this unused "searchBox" private field.(®ΧΙτϊÿÿÿÿ8τω–°ÿ1J$49df591c-ba8f-432a-b7e6-9c660c0bf295
+x
+java:S1068"0Remove this unused "searchButton" private field.(„–‘ÿÿÿÿÿ8τω–°ÿ1J$02131e23-11a6-417b-aeab-2f743c5d86c2
+u
+java:S1068"-Remove this unused "rowSorter" private field.(¶χΚψÿÿÿÿ8τω–°ÿ1J$9a82afb9-2d20-4214-8227-11298d5b2160
+j
+java:S1068"(Remove this unused "size" private field.(‰φΖ)8τω–°ÿ1J$bee86356-ab32-4e8d-9fc6-92e31a6a5389

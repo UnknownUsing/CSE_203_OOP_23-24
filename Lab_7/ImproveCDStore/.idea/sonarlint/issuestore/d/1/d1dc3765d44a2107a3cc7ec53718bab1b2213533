@@ -1,0 +1,12 @@
+
+”	java:S116"SRename this field "OKButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ ×q8Æ£ß«ÿ1J$7b66823c-618a-4749-829a-a2cde77341cb
+s
+java:S1948"+Make "cdManager" transient or serializable.(ÕöŠ•úÿÿÿÿ8É£ß«ÿ1J$27438b2d-acde-4321-84d1-97f7cf3f47af
+‚
+java:S1117 ":Rename "cdTitle" which hides the field declared at line 7.( „úîûÿÿÿÿ8Ößö«ÿ1J$6333f50d-8fbc-4376-b4fb-539c98d0bd01
+‚
+java:S1117!"?Rename "cdCollection" which hides the field declared at line 8.(•ƒÈö8è ÷«ÿ1J$903a198b-a3b3-453a-8055-5c0f63b61bb7
+|
+java:S1117""9Rename "cdType" which hides the field declared at line 9.(Åıˆ˜8êó÷«ÿ1J$6d0a9db6-0093-4f2e-b52a-961ae0352d45
+o
+java:S1068",Remove this unused "buttonOK" private field.(©8¨…à«ÿ1J$19714fbd-68ca-41e4-8eeb-1a472cb733ed

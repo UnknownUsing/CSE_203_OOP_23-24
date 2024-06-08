@@ -1,0 +1,24 @@
+
+r
+java:S3740	"/Provide the parametrized type for this generic.(”ì€Ç8á›¼¿ÿ1J$c35b2f4c-143b-4916-8117-bedbb7211416
+
+java:S1192"FDefine a constant instead of duplicating this literal "Error" 4 times.(Âğ©ëıÿÿÿÿ8Î­Â¿ÿ1J$9d09ad29-d7da-4be6-bc39-4210a9553052
+ 	java:S116
+"YRename this field "VCDRadioButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õà ¨øÿÿÿÿ8ô›¼¿ÿ1J$6f2b9a95-3ac1-433d-aa3e-b33c501900fb
+Ÿ	java:S116"XRename this field "CDRadioButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¥Äøÿÿÿÿ8ô›¼¿ÿ1J$c9ded85e-a7f9-4d27-8ade-3262c0af9885
+r
+java:S2387"*"title" is the name of a field in "Frame".(òÖ»Ôüÿÿÿÿ8ö›¼¿ÿ1J$7e777178-dbdb-4138-8d05-6f0b2526606b
+s
+java:S1948"+Make "cdManager" transient or serializable.(ÕöŠ•úÿÿÿÿ8ù›¼¿ÿ1J$ab58a310-3900-4ae3-9e01-8caf1d79a036
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8ü›¼¿ÿ1J$4b0c02a4-434d-43c4-97a6-a839d1f0ae63
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8ƒëÃ¿ÿ1
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8„ëÃ¿ÿ1
+
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§18ÙõÀ¿ÿ1J$68ec78d2-6780-4c8b-8204-8fcdca6406ab
+y
+java:S1068"1Remove this unused "CDRadioButton" private field.(¿¥Äøÿÿÿÿ8ƒœ¼¿ÿ1J$e2df4914-84e7-423e-80b6-75e0e6da6b17
+t
+java:S1068"1Remove this unused "showAllButton" private field.(Ü‚Â¿8ƒœ¼¿ÿ1J$737f099d-2f69-4255-b248-cd31aea24a36

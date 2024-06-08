@@ -1,4 +1,6 @@
 
+
+java:S1319"nThe type of "listOfResearch" should be an interface such as "List" rather than the implementation "ArrayList".(¼¨£±ıÿÿÿÿ8ÊÊ­†ş1
 ‹
 java:S21848"HCast one of the operands of this multiplication operation to a "double".(ÜÖÊ8ï¨„ïú1J$74a846cb-6d02-4f13-9183-dca48cd48c88
 d

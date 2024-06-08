@@ -1,0 +1,8 @@
+
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ğ«™úü1J$d4379921-dfd1-48a3-bf75-d47547bd5e18
+š	java:S116"SRename this field "EIUStaff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¯Åïüÿÿÿÿ8à­™úü1J$7a65bafc-e329-4aa3-9e99-8d55fc37fc75
+˜	java:S116"VRename this field "TotalSalary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¹ë²8à­™úü1J$606e5e5f-cfa1-4b5d-a6bf-2730ebc89f97
+—	java:S116"URename this field "Statistics" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡µ‘8à­™úü1J$ec6eaaf2-9e77-493c-81be-3ffc0a1d6136
+	java:S116"[Rename this field "HighestPaidStaff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¿¼ù8à­™úü1J$ada49154-f0b4-471c-b935-9112393b62c6
+•
+java:S1450"RRemove the "fos" field and declare it as a local variable in the relevant methods.(ïäà»8ä­™úü1J$4c40ab23-9d70-4c8f-a250-411521ca94ca

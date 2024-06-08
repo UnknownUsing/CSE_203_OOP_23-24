@@ -1,9 +1,12 @@
 package org.example;
 
-public class TeachingAssistants extends UniversityStaff{
+import java.io.Serializable;
+
+public class TeachingAssistants extends UniversityStaff implements Serializable {
 
     private int numOfSubjectAssist;
     private double assistantSalary;
+    private final int type = 3;
     public TeachingAssistants() {
     }
     public TeachingAssistants(String fullname, String dateOfBirth, String idNumber, int numOfSubjectAssist) {
@@ -24,8 +27,18 @@ public class TeachingAssistants extends UniversityStaff{
     }
 
     @Override
+    public void editInfo() {
+        super.staffEdit();
+        assistanceInput();
+    }
+
+    @Override
     public double getSalary() {
         assistantSalary = (numOfSubjectAssist * 0.3)*18000;
         return 0;
+    }
+    @Override
+    public int getType() {
+        return type;
     }
 }

@@ -10,6 +10,10 @@ X
 a
 1src/main/java/org/example/TeachingAssistants.java,8\9\893cd12c504f598e7098e1a4143ee204d512d021
 Z
-*src/main/java/org/example/Resaerchers.java,2\8\28e512a817273c914b7c50bf5fa3e2889f6ee9ab
-Z
 *src/main/java/org/example/Specialists.java,e\8\e8ffb85f8a716868fdf9ee916458bb74d3975f8e
+^
+.src/main/java/org/example/StaffManagement.java,d\b\db3325e3b09c08956fac2c12d5c3592b6dbefe7b
+Y
+)src/main/java/org/example/Researcher.java,e\e\eef99cae7e0368f9d904911ee48b3c383d213773
+Å
+Q.idea/sonarlint/securityhotspotstore/e/e/eef99cae7e0368f9d904911ee48b3c383d213773,2\2\225930e3a81f0f82791497df55bcf97180d32827

@@ -1,5 +1,8 @@
 
 
-java:S2184%"HCast one of the operands of this multiplication operation to a "double".(ËË›¢úÿÿÿÿ8â§Êïú1J$be8ed055-0318-4107-8aac-154c8acee033
-
-java:S1450"_Remove the "specialistSalary" field and declare it as a local variable in the relevant methods.(·ÿ’˜üÿÿÿÿ8¹øÌïú1
+java:S2184."HCast one of the operands of this multiplication operation to a "double".(ËË›¢úÿÿÿÿ8â§Êïú1J$c62b8c92-b7c7-4053-8cb3-dd69282ba6bc
+i
+java:S1170
+"!Make this final field static too.(Ÿ±Ïßùÿÿÿÿ8¹÷˜ùü1J$c88dd9e8-9c58-4d19-a378-e3fcbd3e67f3
+§
+java:S1450	"_Remove the "specialistSalary" field and declare it as a local variable in the relevant methods.(·ÿ’˜üÿÿÿÿ8¹øÌïú1J$efb9e0aa-2e4e-4970-861f-cdb600955c55
